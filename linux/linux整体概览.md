@@ -1,2 +1,2 @@
 linux
-![test](https://github.com/WarlockW/CTF/blob/main/static/testpic)
+![test](https://github.com/WarlockW/CTF/blob/main/linux/static/test_pic)
